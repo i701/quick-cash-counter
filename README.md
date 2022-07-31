@@ -1,2 +1,5 @@
-# quick-cash-counter
-Count your cash as quickly as possible without doing the math in your head.
+# Quick Cash Counter
+Quickly count how much cash you have with the number of notes 💵
+
+
+![qcc](https://user-images.githubusercontent.com/72292943/182021949-bd799f6e-ba5a-44ec-b30f-686b8832392b.gif)
